@@ -1,18 +1,18 @@
 - 👋 Hi, I’m @nahi-t
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ... programing
+- 🌱 I’m currently learning ...python
+- 💞️ I’m looking to collaborate on ... any team
+- 📫  to reach me ... nahomketema553@gmail.com
+- 😄 Pronouns: ... mr nahom
+- ⚡ Fun fact: ... i love coding
 
 <
   I’m currently react devaloper
 🌱 I’m currently learning laravel, flutter 
 
-👨‍💻 my works https://nahi-t.github.io/Netfilm/
+👨‍💻 my work  https://nahi-t.github.io/Netfilm/
 
-💬 Ask me about react, MERN Stack, python, typescript
+💬 Ask me about react, MERN Stack, python, javascript
 
-📫 How to reach me
+
 
