@@ -11,6 +11,7 @@
 🌱 I’m currently learning laravel, flutter 
 
 👨‍💻 my work  https://nahi-t.github.io/Netfilm/
+my portfolio https://nahomketema.netlify.app
 
 💬 Ask me about react, MERN Stack, python, javascript
 
