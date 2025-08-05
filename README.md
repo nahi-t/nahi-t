@@ -1,19 +1,24 @@
-- 👋 Hi, I’m @nahi-t
-- 👀 I’m interested in ... programing
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ... any team
-- 📫  to reach me ... nahomketema553@gmail.com
-- 😄 Pronouns: ... mr nahom
-- ⚡ Fun fact: ... i love coding
+# 👋 Hi, I’m @nahi-t (Mr. Nahom Ketema)
 
-<
-  I’m currently react devaloper
-🌱 I’m currently learning laravel, flutter 
+## 👨‍💻 About Me
+- 👀 I’m passionate about programming and building useful tools.
+- 🌱 Currently learning: **Laravel**, **Flutter**, and sharpening my **Python**.
+- 💞️ Looking to collaborate with creative and motivated teams.
+- 😄 Pronouns: Mr. Nahom
+- ⚡ Fun fact: I genuinely love coding and solving problems!
 
-👨‍💻 my work  https://nahi-t.github.io/Netfilm/
-my portfolio https://nahomketema.netlify.app
+## 🧠 Tech Stack
+- 💻 Frontend: **React**, **JavaScript**
+- 🛠 Backend: **Node.js**, **Django**, **Express**
+- 🗄 Database: **MongoDB**, **PostgreSQL**
+- 🌐 Others: **Python**, **HTML**, **CSS**
 
-💬 Ask me about react, MERN Stack, python, javascript
+## 🚀 My Projects
+- 🎬 [Netfilm – Movie Web App](https://nahi-t.github.io/Netfilm/)
+- 🌍 [My Portfolio Website](https://nahomketema.netlify.app)
 
+## 📫 Reach Me
+- 📧 Email: [nahomketema553@gmail.com](mailto:nahomketema553@gmail.com)
 
-
+## 💬 Ask Me About
+React, MongoDB, PostgreSQL, Python, JavaScript, Node.js, Django, and more!
