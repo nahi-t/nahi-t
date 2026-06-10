@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Nahom%20Ketema&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Nahom%20Ketema&fontSize=72&animation=fadeIn&fontAlignY=38&desc=Computer%20Scientist%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&fontColor=ffffff"/>
 
 <p align="center">
-  <a href="https://github.com/nahi-t"><img src="https://img.shields.io/github/followers/nahi-t?label=Followers&style=for-the-badge&color=6366f1" /></a>
+  <a href="https://github.com/nahi-t"><img src="https://img.shields.io/badge/Followers-10-6366f1?style=for-the-badge" /></a>
   <a href="https://github.com/nahi-t?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repos-6366f1?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:nahomketema553@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/N_alemtsehay"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Hi+There!+👋;+☕+I'm+Nahom!;+⚡+NestJS+%7C+Flutter+%7C+Go!+🚀;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Hi+There!+👋;+☕+I'm+DEV+Nahom!;+⚡+NestJS+%7C+Flutter+%7C+Go!+🚀;" alt="Typing SVG" />
 
 </div>
 
@@ -35,7 +35,7 @@
       <h3>👨‍💻 The Developer</h3>
       <ul>
         <li>👋 I'm <strong>Nahom Ketema</strong>, a full-stack developer based in <strong>Ethiopia 🇪🇹</strong>.</li>
-        <li>🎓 <strong>Software Engineering Student</strong> at <strong>Dire Dawa University (DDU)</strong>.</li>
+        <li>🎓 <strong>Computer Science Student</strong> at <strong>Dire Dawa University (DDU)</strong>.</li>
         <li>💻 <strong>Environment:</strong> Passionate Linux enthusiast running <strong>Ubuntu</strong> for development.</li>
         <li>🚀 <strong>Frameworks of Choice:</strong> Designing robust backends with <strong>NestJS</strong> and sleek mobile apps with <strong>Flutter</strong>.</li>
         <li>🔭 Systems Interest: Deeply curious about low-level programming, graphics with <strong>C++ / OpenGL</strong>, and backend services in <strong>Go</strong>.</li>
@@ -43,7 +43,7 @@
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JkbWZodmM4cGFlY2Q2YzZ4NWU4amN6MnQzdHk5a2M0b3R3bGZxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Developer GIF"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszdGQ3YnpvMG15bDJ6cmg4OHZ6bms5bXRxYm10b3B6ZndpZ3V5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="280" alt="Cat Coding GIF"/>
     </td>
   </tr>
 </table>
@@ -107,7 +107,7 @@
 
 <table>
   <tr>
-    <td>🎓 <strong>B.Sc. in Software Engineering</strong> — Dire Dawa University (In Progress)</td>
+    <td>🎓 <strong>B.Sc. in Computer Science</strong> — Dire Dawa University (In Progress)</td>
   </tr>
   <tr>
     <td>📐 <strong>Design & Analysis of Algorithms</strong> — Efficient structures & complexity planning</td>
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=───+SYSTEM+STATUS+───;+SOFTWARE+ENGINEER+ONLINE;+PLAYER:+nahi-t;+ENVIRONMENT:+UBUNTU+LINUX;+COMPILING..." alt="System Status" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=───+SYSTEM+STATUS+───;+COMPUTER+SCIENTIST+ONLINE;+PLAYER:+nahi-t;+ENVIRONMENT:+UBUNTU+LINUX;+COMPILING..." alt="System Status" />
 
 <br/><br/>
 
@@ -140,7 +140,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFpbzFqeDk4dmYxaW9nYzFldjE2czY1NGRiN3RmYmN6dWl1dGZwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Coding GIF"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmswZnl0OHloMG13cjE3MzVnN2ZpajhjcW82ejlyMTg3YjVqamoxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7IeKPIg2/giphy.gif" width="320" alt="Sleek Coding Interface GIF"/>
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahi-t&theme=radical&hide_border=false" alt="GitHub Streak"/>
