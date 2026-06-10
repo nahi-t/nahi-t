@@ -35,7 +35,7 @@
       <h3>👨‍💻 The Developer</h3>
       <ul>
         <li>👋 I'm <strong>Nahom Ketema</strong>, a full-stack developer based in <strong>Ethiopia 🇪🇹</strong>.</li>
-        <li>🎓 <strong>computer Science Student</strong> at <strong>Dire Dawa University (DDU)</strong>.</li>
+        <li>🎓 <strong>Software Engineering Student</strong> at <strong>Dire Dawa University (DDU)</strong>.</li>
         <li>💻 <strong>Environment:</strong> Passionate Linux enthusiast running <strong>Ubuntu</strong> for development.</li>
         <li>🚀 <strong>Frameworks of Choice:</strong> Designing robust backends with <strong>NestJS</strong> and sleek mobile apps with <strong>Flutter</strong>.</li>
         <li>🔭 Systems Interest: Deeply curious about low-level programming, graphics with <strong>C++ / OpenGL</strong>, and backend services in <strong>Go</strong>.</li>
@@ -107,7 +107,7 @@
 
 <table>
   <tr>
-    <td>🎓 <strong>B.Sc. in computer Science</strong> — Dire Dawa University (In Progress)</td>
+    <td>🎓 <strong>B.Sc. in Software Engineering</strong> — Dire Dawa University (In Progress)</td>
   </tr>
   <tr>
     <td>📐 <strong>Design & Analysis of Algorithms</strong> — Efficient structures & complexity planning</td>
