@@ -79,7 +79,7 @@
 | 📦 **RentMove** | Item rental platform and Lost-and-Found application with real-time Socket.io chat. | `NestJS` • `Flutter` • `Socket.io` • `Cloudinary` |
 | 🎓 **SmartStudy** | AI-powered student management portal and centralized study assistant platform. | `Full-Stack` • `AI Integration` |
 | 💳 **Arif Smart Subscription** | Automated subscription engine integrated directly with the M-Pesa payment API. | `Node.js` • `M-Pesa API` |
-| 🏨 **Hotel Management System** | Distributed client-server application built using Type script  and structural GUIs. | `Nest js` • `telwind` • `Next` |
+| 🏨 **Hotel Management System** | Distributed client-server application built using Java  and structural GUIs. | `Java` •  • `swing` |
 
 </div>
 
